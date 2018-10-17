@@ -27,5 +27,7 @@ These guests also have technical names from ACFL:
 4. **Superior**: Can contribute to a topc.
 
 ## Principles to Learn by
-### Be who you are ###
+### Be where you are
+### Stay between the lines
+### Close enough is good enough, for now
 
