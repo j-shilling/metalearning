@@ -26,5 +26,6 @@ These guests also have technical names from ACFL:
 3. **Advanced**: Can describe something in a topic.
 4. **Superior**: Can contribute to a topc.
 
-## The Journey: Obstacles to learning
-We never want to forget that understanding and learning is a bodily process.
+## Principles to Learn by
+### Be who you are ###
+
