@@ -29,7 +29,9 @@ These guests also have technical names from ACFL:
 
 It's easy to fall into the trap of thinking about learning like you're leveling up in a video game: you grind away with exercises and assignments before eventually you get the upgrade. In real live though, there's a big difference between what your brain does when it completes a task and what it does when it acquires a skill. We have all stayed up all night to finish some project or paper or test. We got it done, but didn't remember anything about it a week later. That's because a tired brain can check boxes, type words, and finish worksheets--it can *do* tasks--but it can't form the long term connections of genuine learning effectively.
 
-If we stay up too late, work to long, or stress too much, learning is going to slow to a halt. We might finish labs, but but we will miss out on our real goal. If you feel yourself getting frusterated, tired, loosing focus, etc., then you *need* to take a break. The longer you try to push through, the longer it will take to bring yourself back to a productive state of mind. We all want to work hard and taking breaks can *feel* like your being lazy, but it will ultimately lead to you working more *productive* hours in total.
+If we grind away irl, if we stay up too late, work to long, or stress too much, learning is going to slow to a halt. We might finish labs, but but we will miss out on our real goal. If you feel yourself getting frusterated, tired, loosing focus, etc., then you *need* to take a break. The longer you try to push through, the longer it will take to bring yourself back to a productive state of mind. We all want to work hard and taking breaks can *feel* like your being lazy, but it will ultimately lead to you working more *productive* hours in total.
+
+This becomes an exercise of self-awareness. The sooner we can realize that we need a break and the sooner we notice that we are refreshed, the shorter our breaks can be and the more productive our learning. Try to be aware of any stressers during your day.
 
 ### Be where you are
 ### Stay between the lines
