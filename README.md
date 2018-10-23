@@ -35,7 +35,9 @@ Your brain has real, hard-and-fast, physiological limits to what it can do that 
 
 ### Close enough is good enough, for now
 
-To add to the limits and frustration of our mortal coil: we can't learn more than one thing at a time. The road to understanding is narrow and there are no shortcuts. No one can reach an advanced level without first working through the intermediate and novice levels step by step.
+To add to the limits and frustration of our mortal coil: we can't learn more than one thing at a time. The road to understanding is narrow and there are no shortcuts. No one can reach an advanced level without first working through the intermediate and novice levels step by step. Everything you do here should be an oportunity to push you forward *exactly* one step--concept by concept, fact by fact. Now, the assignments cannot know exactly what step you're on; only you can know that. So, the labs and the lectures are going to contain a variety of concepts: some of which will be review and some will be material you're still learning.
+
+Because the program is so immersive, its easy to feel like you need to be learning everything at the same time. You'll see a lab and there will be a few things that you feel shakey on. Remember, though, if you try to learn it all at the same time, you'll end up learning none of it. Instead, set a specific goal for each learning experience. Say to yourself: "I am going to learn X from this lab." Once your goal is set you know where your attention needs to be--everything else is peripheral. Of course, at the end of the day the labs need to work, the tests needs to pass, the sites need to run. Only one thing though needs to be perfect.
 
 ### Be where you are
 
