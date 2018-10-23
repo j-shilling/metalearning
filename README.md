@@ -31,8 +31,15 @@ It's easy to fall into the trap of thinking about learning like you're leveling 
 
 If we grind away, if we stay up too late, work to long, or stress too much, learning is going to slow to a halt. We might finish labs, but but we will miss out on our real goal. If you feel yourself getting frusterated, tired, loosing focus, etc., then you *need* to take a break. The longer you try to push through, the longer it will take to bring yourself back to a productive state of mind. We all want to work hard and taking breaks can *feel* like you're being lazy, but it will ultimately lead to you working more *productive* hours in total.
 
-This becomes an exercise of self-awareness. The sooner we can realize that we need a break and the sooner we notice that we are refreshed, the shorter our breaks can be and the more productive our learning. Try to be aware of any stressers during your day.
+Your brain has real, hard-and-fast, physiological limits to what it can do that we just can fight against. We have to learn to work *with* these limits, to accept them as a fact of life, and to recognize when we are getting close to burning out.
+
+### Close enough is good enough, for now
+
+To add to the limits and frustration of our mortal coil: we can't learn more than one thing at a time. The road to understanding is narrow and there are no shortcuts. No one can reach an advanced level without first working through the intermediate and novice levels step by step.
 
 ### Be where you are
-### Close enough is good enough, for now
+
+
+
+
 
